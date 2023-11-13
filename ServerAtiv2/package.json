@@ -1,0 +1,33 @@
+{
+  "name": "serverativ2",
+  "version": "1.0.0",
+  "description": "Implementação de camadas de modelo e persistência",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreatestSteph/Atividade-Backend.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "apirest",
+    "html",
+    "css",
+    "desenvolvimento"
+  ],
+  "author": "GreatestSteph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreatestSteph/Atividade-Backend/issues"
+  },
+  "homepage": "https://github.com/GreatestSteph/Atividade-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.3"
+  }
+}
